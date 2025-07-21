@@ -27,3 +27,17 @@ Testify is a full-stack web-based platform that allows users to take time-bound 
 |------------------|----------------------|------------------|------------------------|
 | React.js         | Node.js + Express.js | MongoDB          | JWT Authentication    |
 | Tailwind CSS     | Nodemailer (OTP Email)| Mongoose ORM     | dotenv, bcryptjs, etc |
+
+
+#Preview Of the Project - 
+<img width="1899" height="857" alt="image" src="https://github.com/user-attachments/assets/6e7e3f1c-6259-4531-b9cf-3758b18fa943" />
+<img width="1892" height="867" alt="image" src="https://github.com/user-attachments/assets/a1f4e561-7aeb-4979-9713-f54a925ff66a" />
+<img width="1899" height="865" alt="image" src="https://github.com/user-attachments/assets/29cf3536-5d88-4c99-a337-831ddcd705c4" />
+<img width="1896" height="756" alt="image" src="https://github.com/user-attachments/assets/c5dbdf9c-18c8-48db-ace3-2529b830b29a" />
+
+#Login and Signup 
+<img width="1691" height="781" alt="image" src="https://github.com/user-attachments/assets/12b5a3e2-a04c-4b38-ab22-f2b26ec7e304" />
+
+
+
+
